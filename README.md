@@ -25,3 +25,4 @@ Highlight and accept `Continue`, which will then prompt you for user information
 In the next two screens, don't change anything and simply hit `Continue`. Installation will now begin!
 
 Wait for installation to complete and close the Virtual Machine. You are now done with the installation and are ready to use Ubuntu!
+
