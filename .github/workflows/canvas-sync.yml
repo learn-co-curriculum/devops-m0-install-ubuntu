@@ -1,4 +1,4 @@
-name: Sync with Canvas
+name: Sync
 
 on:
   push:
