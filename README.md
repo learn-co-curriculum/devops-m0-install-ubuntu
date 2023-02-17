@@ -2,7 +2,7 @@
 
 Now that we've gotten the Virtual Machine set up with an Ubuntu installation disk, it's time to finally install Ubuntu on it.
 
-The first thing you'll be met with is `GNU GRUB`, which is what is known as a `boot loader`. For now all we have to do is hit `return` / `enter` on the first option to install Ubuntu.
+The first thing you'll be met with is `GNU GRUB`, which is what is known as a *bootloader*. For now all we have to do is hit `return` / `enter` on the first option to install Ubuntu.
 
 Now that we've started the installer, you should see the language selection screen:
 
